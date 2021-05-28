@@ -1,0 +1,12 @@
+{
+  "name": "comp229-m2021-week2",
+  "version": "0.0.1",
+  "description": "Demo project for COMP229 - M2021 - Week2",
+  "main": "index.js",
+  "author": "Aakash",
+  "license": "MIT",
+  "scripts": 
+  {
+    "start": "node index.js"
+  }
+}
